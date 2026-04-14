@@ -24,7 +24,5 @@ Includes History (soft delete), calendar-based filters, and auto-delete scheduli
 ## Screenshot
 ![image alt](https://github.com/ShashankVinesh/ExTrack/blob/f0813c9d1d7896ccee7644ba89958b5a938052c1/ExTrackMockup.png)
 
-## Setup / Run
-1. Clone:
-   ```bash
-   git clone https://github.com/ShashankVinesh/ExTrack.git
+## Demo Video
+![](https://github.com/ShashankVinesh/ExTrack/blob/799f148a5313d21efc0e2682cd3a51607a40926e/ExTrack.mp4)
