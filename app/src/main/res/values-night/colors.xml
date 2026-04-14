@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Brand (dark) -->
+    <color name="brand_primary">#FFB4AB</color>
+    <color name="brand_on_primary">#4A0A0A</color>
+
+    <color name="brand_primary_container">#6B1A1A</color>
+    <color name="brand_on_primary_container">#FFDAD6</color>
+
+    <color name="brand_secondary">#B0CCC7</color>
+    <color name="brand_on_secondary">#1B3532</color>
+
+    <!-- Surfaces (dark) -->
+    <color name="brand_background">#121212</color>
+    <color name="brand_surface">#121212</color>
+    <color name="brand_on_surface">#E6E1E5</color>
+    <color name="brand_on_surface_variant">#CAC4CF</color>
+
+    <color name="brand_outline">#33FFFFFF</color>
+
+    <color name="green">#4ADE80</color>
+    <color name="red">#EF4444</color>
+
+    <!-- Splash -->
+    <color name="splash_bg">#4A0A0A</color>
+
+</resources>
